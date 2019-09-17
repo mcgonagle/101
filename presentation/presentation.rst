@@ -547,6 +547,17 @@ Spinnaker is a Pluggable, Cloud Native Platform
 
 ----
 
+
+:id: before-we-start
+
+Before We Start...
+==================
+
+.. note::
+    * note
+
+----
+
 :id: cover-today
 
 What are we going to cover today?
@@ -560,14 +571,73 @@ What are we going to cover today?
 .. note::
     * note
 
----
+----
+
+:id: cover-today-cont
+
+What are we going to cover today cont.?
+=======================================
+
+* Introductions to Pipelines
+* Baking and Deploying
+* Working with Load Balancers and Health Checks
+* Branching pipelines and Pipelines of pipelines
+* Introduction to Spring Expression Language (SpEL)
+
+.. note::
+    * note
+
+----
+
+:id: spinnaker-fundamentals
+
+Spinnaker - The Fundamentals
+============================
+
+.. note::
+    * note
+
+----
+
+:id: why-spinnaker
+
+Why Spinnaker was created
+=========================
+
+A brief history of Deployments at Netflix
+
+A need for end to end orchestration
+
+When deploying to the cloud, your development platform should understand the cloud
+
+.. note::
+    * note
+
+----
+
+:id: spinnaker-philosophy
+
+Spinnaker Philosophy
+====================
+
+* Make all of your infrastructure immutable
+* Make the deployment tool aware of infrastructure
+* Minimize the possibility of errors in deployments
+* Make deployments easy and repeatable
+* When deployments fail, make it easy to roll back 
+* Make it possible to deploy where you want, when you want 
+
+.. note::
+    * note
+
+----
 
 :id: questions
 
 Questions?
 ==========
 
-Presentation available at: https://github.com/mcgonagle/sharkhack
+Presentation available at: https://github.com/mcgonagle/101
 
 .. note::
 
