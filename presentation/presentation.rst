@@ -442,6 +442,126 @@ brew install
 
 ----
 
+:id: migrating-to-the-cloud
+
+Migrating to the Cloud
+======================
+
+.. image:: images/migrating_to_the_cloud.png
+    :height: 640px
+    :width: 1080px
+    :align: center
+
+.. note::
+    * note
+
+----
+
+:id: rigid-tooling
+
+Rigid and Intertwined Tooling
+=============================
+
+.. image:: images/rigid_tooling.png
+    :height: 640px
+    :width: 1080px
+    :align: center
+
+.. note::
+    * note
+
+----
+
+:id: unified-approach
+
+A Unified Approach to Migrating
+===============================
+
+.. image:: images/unified_approach.png
+    :height: 640px
+    :width: 1080px
+    :align: center
+
+.. note::
+    * note
+
+----
+
+:id: deploy-dependencies
+
+Deploy without Dependencies
+===========================
+
+.. image:: images/deploy_dependencies.png
+    :height: 640px
+    :width: 1080px
+    :align: center
+
+.. note::
+    * note
+
+----
+
+:id: single-pane-glass
+
+Spinnaker is a Single Pane of Glass
+===================================
+
+.. image:: images/single_pane_glass.png
+    :height: 640px
+    :width: 1080px
+    :align: center
+
+.. note::
+    * note
+
+----
+
+:id: open-source
+
+Spinnaker: The Open Source Standard 
+===================================
+
+.. image:: images/open_source.png
+    :height: 640px
+    :width: 1080px
+    :align: center
+
+.. note::
+    * note
+
+----
+
+:id: pluggable
+
+Spinnaker is a Pluggable, Cloud Native Platform 
+===============================================
+
+.. image:: images/pluggable.png
+    :height: 640px
+    :width: 1080px
+    :align: center
+
+.. note::
+    * note
+
+----
+
+:id: cover-today
+
+What are we going to cover today?
+=================================
+
+* Intro, Goals, Assumptions
+* Background & Philosophy & Terminology
+* Archtecture 
+* Projects and Application in Spinnaker
+
+.. note::
+    * note
+
+---
+
 :id: questions
 
 Questions?
