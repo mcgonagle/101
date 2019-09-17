@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    run: sharkhack
+  name: sharkhack
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      run: sharkhack
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        run: sharkhack
+    spec:
+      containers:
+      - image: mcgonagle/sharkhack
+        name: sharkhack
+        resources: {}
+status: {}
